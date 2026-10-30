@@ -4,8 +4,8 @@ Repositorio público para descargar la última APK de la POC.
 
 ## APK actual
 - **Archivo:** `app-debug.apk`
-- **Origen:** `rdudiver-andreani/mobile-poc` tag `auto-7`
-- **SHA256:** `f04577fcf27eaf5e3647763c0683d7df30fc5f3dd1ff6aa2033abd5da39b3208`
+- **Origen:** `rdudiver-andreani/mobile-poc` tag `auto-8`
+- **SHA256:** `7e9f9e9508e7b9f186684672d1f52f304d12c22309e43f748663448e2853b15b`
 
 ## Descarga
 - Desde la pestaña **Releases** de este repo.
