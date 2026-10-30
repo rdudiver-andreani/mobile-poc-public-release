@@ -7,9 +7,9 @@ Repositorio público para descargar la última APK de la app y del instalador As
 - **Versión Mobile App:** `1.0`
 - **Astore Installer APK:** `astore-installer-release.apk`
 - **Versión Astore Installer:** `1.0`
-- **Origen:** `rdudiver-andreani/mobile-poc` tag `auto-25`
-- **SHA256 Mobile App APK:** `65849498b21be01abbe496dfe7fb1805841f73169c1641706fdc5f6455be1cbc`
-- **SHA256 Astore Installer APK:** `727acfb168cd7eeb869389a56866d2c58999be9aab13f02dc2269da5de04d702`
+- **Origen:** `rdudiver-andreani/mobile-poc` tag `auto-26`
+- **SHA256 Mobile App APK:** `0c933225ce51499debbca93127f7205ab7ab3161431c3319ae7269a45399cb18`
+- **SHA256 Astore Installer APK:** `c9e37c2afb6f7df296ed987e4d49b3e2b47a11b6073ec99a2f95046f32abe7a8`
 
 ## Descarga
 - Desde la pestaña **Releases** de este repo ().
